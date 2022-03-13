@@ -1,14 +1,9 @@
-### Hi there 👋
+### Hi! :smiling_face_with_three_hearts:
 
 # Welcome to my Github !
+I am a student at the University of Oviedo in computer engineering in information technology
 
-- 🔭 I’m currently working  as a volunteer in developing  https://alzheimerlaciana.com/
-- 📫 How to reach me: silvibares@gmail.com
+ :raised_hands: I’m currently working  as a volunteer in developing  https://alzheimerlaciana.com/ :raised_hands:
 
-### My interest are :
-- 😄  
-  * Artificial intelligence
-  * Data anylitics
-  * Software developing
   
-  
+  - 📫 How to reach me: silvibares@gmail.com
